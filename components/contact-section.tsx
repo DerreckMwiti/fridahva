@@ -80,13 +80,13 @@ export function ContactSection() {
             {
               icon: Phone,
               title: "Phone",
-              content: "+1 (555) 123-4567",
-              link: "tel:+15551234567",
+              content: "+254 791 025948",
+              link: "tel:+254791025948",
             },
             {
               icon: MapPin,
               title: "Office",
-              content: "San Francisco, CA",
+              content: "Nairobi, Kenya",
               link: "#",
             },
           ].map((item, index) => {
